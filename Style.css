@@ -1,0 +1,98 @@
+.mother{
+    margin-left: 100px;
+    margin-right: 60px;
+}
+.menu{
+    margin-bottom: 60px;
+    
+}
+h1{
+    background-image: linear-gradient(83.84deg
+, #0088FF -6.87%, #A033FF 26.54%, #FF5C87 58.58%);
+    font-size: 90px;
+    letter-spacing: -4px;
+    line-height: 85px;
+    margin-bottom: 16px;
+    color: transparent;
+    -webkit-background-clip: text;
+}
+.description{
+    margin-bottom: 15px;
+}
+.logo{
+    width: 40px;
+    height: 40px;
+    margin-right: 650px;
+}
+.menuitem{
+    text-decoration: none;
+    color: inherit;
+    margin-left: 30px;
+}
+.menuitem:hover{
+    border-bottom-style: solid;
+}
+.type{
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 10px;
+    background: rgba(0, 0, 0, .04);
+    display: block;
+    color: rgba(0, 0, 0, 1);
+    font-size: 19px;
+    height: 36px;
+    width: 300px;
+    padding: 8px 16px;
+}
+.cont-logo{
+    width: 130px;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.cont-right-logo{
+    width: 600px;
+    height: 650px;
+    margin-left: 50px;
+    
+}
+.cont-left{
+    display: inline-block;
+    width: 40%;
+  
+}
+.inner-left{
+    width: 80%;
+}
+.cont-right{
+    display: inline-block;
+    width: 59%;
+    }
+
+.container{
+   
+}
+.bottom{
+    margin-top: 40px;
+    margin-bottom: 50px;
+    margin-left: 5px;
+}
+.button{
+    border-radius: 24px;
+    border:1px solid #0084ff;
+    background-color:#0084ff ;
+    padding: 2px 20px 0;
+    margin-top: 20px;
+    margin-bottom: 12px;
+    margin-right: 15px;
+    color: #fff;
+    font-size: 19px;
+    height: 40px;
+    width: auto;
+}
+.main-left{
+    margin-left: 20px;
+}
+.last{
+    margin-left: 20px;
+}
